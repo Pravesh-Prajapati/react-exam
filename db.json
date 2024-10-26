@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "id": "e9c1",
+      "name": "paneer ",
+      "description": "Paneer is an Indian cheese that's made from curdled milk and some sort of fruit or vegetable acid like lemon juice. There are some distinct traits that make Paneer the cheese that it is: It's an unaged cheese. It's a soft cheese.",
+      "price": "1000",
+      "img": "https://plus.unsplash.com/premium_photo-1665972700836-50bbb88e43e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGFuZWVyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "ce14",
+      "name": "aloo tikka",
+      "description": "Paneer tikka or Paneer Soola or Chhena Soola is an Indian dish made from chunks of paneer/ chhena marinated in spices and grilled in a tandoor.",
+      "price": "321",
+      "img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Neha_Mathur/Achari_Paneer_Tikka_Recipe_Party_Food_400.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "041a",
+      "name": "pravesh",
+      "email": "praveshprajapati708154@gmail.com",
+      "password": "12345",
+      "confirmpassword": "12345"
+    }
+  ]
+}
